@@ -1,0 +1,111 @@
+*{
+   padding: 0;
+   margin: 0; 
+}
+
+.container{
+    background-color: rgb(157, 158, 160);
+}
+.div1{
+    background-color: rgb(102, 99, 91);
+    width: 80vw;
+    height: 51vh;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url("https://previews.123rf.com/images/kwanchaichaiudom/kwanchaichaiudom1706/kwanchaichaiudom170600099/80674404-baking-utensils-and-ingredient-with-whisk-egg-on-black-background-frame-border-design-text-space-ima.jpg");
+    background-size: cover;
+}
+
+.div1 p{
+    color: beige;
+    font-family: "cinzel";
+    position: absolute;
+    font-size: 50px;
+    
+}
+    /* position: relative;
+    text-align: center;
+    text-transform: absolute;
+    text-align: 17px;
+    left: 50px; */
+
+.div-2{
+    background-color: rgb(162, 143, 116);
+    width: 80vw;
+    height: 50vh;
+    margin: 20px;
+    font-size: 300%;
+    text-align: center;
+}
+
+.div-2 img{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 20px;
+    border:5px solid beige;
+    left: 350px;
+    padding: 10px;
+}
+.div-2 h3{
+    font-size: 20px;
+    text-align: center;
+}
+.div-3{
+    background-color: rgb(232, 222, 185);
+    width: 80vw;
+    height: 50vh;
+    margin: 20px;
+    font-size: 300%;
+    text-align: center;
+}
+.div-3 img{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 20px;
+    border:5px solid beige;
+    left: 350px; 
+    padding: 10px;
+}
+.div-3 h3{
+    font-size: 20px;
+    text-align: center;
+}
+.div-4{
+    background-color:  rgb(118, 102, 71);
+    width: 80vw;
+    height: 50vh;
+    margin: 20px;
+    font-size: 300%;
+    text-align: center;
+}
+.div-4 img{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 20px;
+    border:5px solid beige;
+    left: 350px; 
+    padding: 10px;
+}
+
+.div-4 h3{
+    font-size: 20px;
+    text-align: center;
+}
+.div-5{
+    background-color: rgb(118, 102, 71);
+    width: 80vw;
+    height: 25vh;
+    margin: 20px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
